@@ -1,0 +1,77 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+   background: url(../img/wallpaperflare.com_wallpaper\ \(1\).jpg) no-repeat center center fixed;
+   background-size: cover;
+  
+}
+.container{
+
+   color: rgb(255, 255, 255);
+   position: absolute;
+   top: 35%;
+   left: 40%;
+   
+}
+.container h1{
+   font-size: 80px;
+   border-bottom: 5px solid purple;
+   margin-bottom:40px;
+   padding: 13px 0px;
+   font-family: 'Niconne', cursive;
+   
+}
+.box{
+   width: 100%;
+   border-bottom: 2px solid  purple;
+   margin-top: 32px;
+   margin-bottom: 32px;
+   
+}
+.box input{
+   background: none;
+   width: 75%;
+   border: none;
+   outline: none;
+   color: white;
+   font-size: 20px;
+   padding: 5px  10px;
+   
+}
+.btn{
+   cursor: pointer;
+   outline: none;
+   margin: 25PX 0;
+   padding: 10px 21px;
+   border-radius: 10px;
+   border: 2px solid purple;
+   font-size: 18px;
+   background: none;
+   color: rgb(255, 255, 255);
+   font-weight: bold;
+}
+.box i{
+   width: 25px;
+    text-align: center;
+}
+.btn:hover{
+   color: purple;
+   background: rgb(255, 255, 255);
+}
+.for{
+   text-align: center;
+   position: absolute;
+   top: 628px;
+   left: 770px;
+}
+.re{
+   text-align: center;
+   position: absolute;
+   top: 628px;
+   left: 1023px;
+   text-decoration: none;
+
+}   
+   
